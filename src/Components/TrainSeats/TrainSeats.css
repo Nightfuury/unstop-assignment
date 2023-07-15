@@ -1,0 +1,15 @@
+.seats {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.booked {
+  background-color: #d46c6c;
+  border: 1px solid #d46c6c;
+}
+
+.available {
+  background-color: #8fd46c;
+  border: 1px solid #8fd46c;
+}

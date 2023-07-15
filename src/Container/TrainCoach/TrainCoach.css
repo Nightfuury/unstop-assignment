@@ -1,0 +1,46 @@
+.coach {
+  margin: 2rem;
+  border: 1px solid #d7dbe0;
+  border-radius: 0.5rem;
+}
+
+.coach ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.coach ul li {
+  list-style: none;
+  flex: 0 0 13.333333%;
+}
+
+.coach-info {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 2rem auto;
+  width: 80%;
+  border: 1px solid #d7dbe0;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+
+.green-dot {
+  height: 0.5rem;
+  width: 0.5rem;
+  border: 1px solid #8fd46c;
+  border-radius: 50%;
+  background-color: #8fd46c;
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+.red-dot {
+    height: 0.5rem;
+    width: 0.5rem;
+    border: 1px solid #d46c6c;
+    border-radius: 50%;
+    background-color: #d46c6c;
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
